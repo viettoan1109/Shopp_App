@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:id="@+id/group_menu">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_locator"
+            android:icon="@drawable/ic_icon_storelocator"
+            android:title="Store Locator" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_term"
+                android:icon="@drawable/ic_baseline_assignment_24"
+                android:title="Terms and Conditions" />
+            <item
+                android:id="@+id/nav_help"
+                android:icon="@drawable/ic_icon_term"
+                android:title="Help" />
+            <item
+                android:id="@+id/nav_question"
+                android:icon="@drawable/ic_baseline_question_answer_24"
+                android:title="Got a Question" />
+        </menu>
+    </item>
+
+    <group>
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@drawable/ic_logout"
+            android:title="Exit"
+            tools:ignore="MenuTitle" />
+    </group>
+</menu>

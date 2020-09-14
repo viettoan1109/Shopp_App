@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ShopApp</string>
+
+    <string name="title_shop">Shop</string>
+    <string name="title_gifts">Gifts</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="start">GOT IT</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+
+    <string name="search_hint">Search Here...</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="lorem_ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry_lorem_ipsum_has_been_the_industry_s_standard_dummy_text_ever_since_the_1500s_when_an_unknown_printer_took_a_galley_of_type_and_scrambled_it_to_make_a_type_specimen_book_it_has_survived_not_only_five">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five. asasd
+    asd
+    asd
+    as
+    da
+    sd
+    asd
+    as
+    da
+    sd
+    as
+    das
+    das
+    d
+    as</string>
+
+
+</resources>

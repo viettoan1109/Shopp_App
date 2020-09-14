@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_store"
+        android:icon="@drawable/ic_store_24"
+        android:title="Store" />
+
+    <item
+        android:id="@+id/navigation_cart"
+        android:icon="@drawable/ic_cart_24"
+        android:title="Cart" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_account_circle_24"
+        android:title="Profile" />
+
+    <item
+        android:id="@+id/navigation_favourite"
+        android:icon="@drawable/ic_favorite_24"
+        android:title="favourite" />
+
+
+</menu>
